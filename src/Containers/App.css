@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Nintendo";
+  src: url("Super.ttf");
+  font-style: normal;
+  font-weight: normal;
+
+}
+
+.title {
+  font-family: Nintendo;
+  font-size: 60px;
+}
